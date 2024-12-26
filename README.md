@@ -50,6 +50,12 @@ This repository contains a machine learning project aimed at predicting employee
    - Explored relationships between numerical features using heatmaps and plots.  
 
 ---
+## Images
+![plot](https://github.com/user-attachments/assets/b7170cc1-0d61-470b-a6b8-2fa3b713b296)
+![correlation_matrix](https://github.com/user-attachments/assets/ccca8f2f-c13b-4b2b-adcb-ef22980099f5)
+
+
+
 
 ## **Models Used**
 1. **Linear Regression**
